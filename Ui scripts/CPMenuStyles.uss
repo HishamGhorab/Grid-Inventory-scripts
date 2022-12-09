@@ -1,0 +1,6 @@
+.ContentLabel {
+    -unity-font: none;
+    -unity-font-definition: url('project://database/Assets/PlayfairDisplay-Regular%20SDF.asset?fileID=11400000&guid=035c40a5623c3194b87e7a3f5aae6871&type=2#PlayfairDisplay-Regular SDF');
+    color: rgba(210, 210, 210, 0.45);
+    font-size: 20px;
+}
